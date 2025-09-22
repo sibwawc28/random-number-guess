@@ -3,8 +3,11 @@ RANDOM NUMBER GUESSING GAME
 It is a very simple random number guessing program, developed using python.
 
 #features
+~ random number is generated
 ~ user inputs a number
 ~ gets 'higher' or 'lower' as per the guess
+~ score is displayed
+
 
 #to play
 ~ clone the repository
